@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenPROM2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ejercicio1">Ejercicio1</string>
+    <string name="title_activity_ejercicio2">Ejercicio2</string>
+    <string name="title_activity_ejercicio3">Ejercicio3</string>
+    <string name="title_activity_ejercicio4">Ejercicio4</string>
+</resources>
